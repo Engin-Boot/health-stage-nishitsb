@@ -2,7 +2,7 @@
 
 ## Collects required sleep data
 
-It delivers the relevant data required for manupulation and report generation.
+It delivers the relevant data required for manipulation and report generation.
 
 ## Working Google Fit api
 
