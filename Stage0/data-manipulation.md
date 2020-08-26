@@ -1,10 +1,10 @@
 # Data manipulation
 
-## Manipulates the data to make it presentable
+## Feature
 
 It delivers ready to present data.
 
-## Data collection module should give the relevant data
+## Acceptance Criteria
 
 ### Scenario: To make data sensible
 
