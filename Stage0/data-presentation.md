@@ -1,10 +1,10 @@
 # Data presentation
 
-## Presents the sleep data
+## Feature
 
 It delivers the report that has all the insights needed to diagnose
 
-## Data manipulation module should give the data in desired format
+## Acceptance Criteria
 
 ### Scenerio: To make a report that has all the required insights
 
