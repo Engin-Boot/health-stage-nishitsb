@@ -1,10 +1,10 @@
 # Data Collection
 
-## Collects required sleep data
+## Feature
 
 It delivers the relevant data required for manipulation and report generation.
 
-## Working Google Fit api
+## Acceptance Criteria
 
 ### Scenario: Get sleep data from the Google Fit api
 
